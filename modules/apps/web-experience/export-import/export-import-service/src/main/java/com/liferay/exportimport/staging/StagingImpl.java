@@ -2221,7 +2221,7 @@ public class StagingImpl implements Staging {
 	}
 
 	@Override
-	public void updateLastImportSettings(
+	public void 	updateLastImportSettings(
 		Element layoutElement, Layout layout,
 		PortletDataContext portletDataContext) {
 
